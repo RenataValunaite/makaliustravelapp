@@ -1,0 +1,25 @@
+.main {
+  margin: auto;
+  width: 80%;
+}
+
+.header {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  margin-top: 60px;
+}
+
+.content {
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.details h1 {
+  margin: 0;
+}
+
+.details h4 {
+  margin-bottom: 50px;
+}

@@ -1,0 +1,17 @@
+.main {
+  all: unset;
+  width: 300px;
+  height: 60px;
+  background-color: green;
+  text-align: center;
+  font-weight: 600;
+  font-size: 22px;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.main:hover {
+  background-color: rgb(2, 61, 2);
+}
